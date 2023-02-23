@@ -1,0 +1,14 @@
+.table {
+  max-width: 100%;
+  height: calc(100vh - 60px);
+  border: 1px solid white;
+  border-radius: 10px;
+}
+
+.ag-theme-alpine .ag-root-wrapper {
+  border-radius: 5px;
+  border-color: #307cf5;
+}
+.ag-theme-alpine .ag-header-container {
+  width: 100%;
+}

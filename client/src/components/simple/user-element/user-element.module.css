@@ -1,0 +1,18 @@
+.user-element {
+  margin-bottom: 25px;
+}
+.user-email {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.user-email p {
+  margin-right: 5px;
+}
+.user-element-control {
+  display: flex;
+  align-items: flex-end;
+}
+.user-element-container p {
+  margin-bottom: 10px;
+}

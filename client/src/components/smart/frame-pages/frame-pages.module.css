@@ -1,0 +1,7 @@
+.frame-page {
+  display: grid;
+  grid-template-columns: 0.5fr 1.5fr;
+  grid-template-rows: 1fr;
+  grid-column-gap: 20px;
+  padding: 0 10px;
+}

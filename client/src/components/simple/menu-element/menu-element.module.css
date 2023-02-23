@@ -1,0 +1,11 @@
+.menu-element {
+  font-size: 1rem;
+  display: flex;
+  justify-content: center;
+  padding: 10px 5px;
+  border-bottom: 1px solid #ffffff;
+}
+.menu-element a {
+  color: #ffffff;
+  text-decoration: none;
+}
