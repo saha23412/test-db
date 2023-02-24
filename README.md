@@ -14,7 +14,8 @@
   ![Image alt](https://github.com/saha23412/imgproj/raw/main/test3.jpg)  
   пароль,название БД,пользователь,все должно быть точно установлено иначе мы не сможем подключиться к БД  
   7)Затем мы можем запускать проект , в папке server в терминале пишем команду npm run dev,затем в папке client пишем npm run dev  
-   ![Image alt](https://github.com/saha23412/imgproj/raw/main/test4.jpg)  после этого sequelize создаст таблицу User и WalletUser  
+   ![Image alt](https://github.com/saha23412/imgproj/raw/main/test4.jpg)  
+   после этого sequelize создаст таблицу User и WalletUser  
    8)Затем переходим в git bush и заполняем данными эти таблицы  
    ![Image alt](https://github.com/saha23412/imgproj/raw/main/test5.jpg)   
    Список sql запросов есть в папке server/database.sql 
