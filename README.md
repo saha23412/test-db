@@ -18,7 +18,8 @@
    после этого sequelize создаст таблицу User и WalletUser  
    8)Затем переходим в git bush и заполняем данными эти таблицы  
    ![Image alt](https://github.com/saha23412/imgproj/raw/main/test5.jpg)   
-   Список sql запросов есть в папке server/database.sql 
+   Список sql запросов есть в папке server/database.sql   
    9)После команды npm run dev в папке client появится локальный url по которому должен открыться проект  
    ![Image alt](https://github.com/saha23412/imgproj/raw/main/test6.jpg) 
+   P.s вместо git bush можно использовать SQL Shell (psql)  
   
