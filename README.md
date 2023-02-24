@@ -22,6 +22,6 @@
    9)После команды npm run dev в папке client появится локальный url по которому должен открыться проект  
    ![Image alt](https://github.com/saha23412/imgproj/raw/main/test6.jpg)   
    P.s вместо git bush можно использовать SQL Shell (psql)  
-  #### Стек  
+  #### Стек
   client: React,axios,react-router-dom,ag-grid-react,react-loader-spinner  
   server: Express,pg,nodemon
