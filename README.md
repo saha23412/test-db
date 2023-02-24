@@ -11,5 +11,5 @@
   Введем команду psql -U postgres,затем введем пароль пользователя postgress(базовый пароль:root)  
   5)Затем введем команду CREATE DATABASE wallet , список sql запросов есть в папке server/database.sql  
   6)После провери информацию о базе данных
-  ![Image alt](https://github.com/saha23412/imgproj/raw/main/test3.jpg)  
+    ![Image alt](https://github.com/saha23412/imgproj/raw/main/test3.jpg)  
   пароль,название БД,пользователь,все должно быть точно установлено иначе мы не сможем подключиться к БД  
