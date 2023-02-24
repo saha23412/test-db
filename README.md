@@ -7,4 +7,5 @@
   2)Зайдем в папку client и после этого установим зависимости командой npm i  
   3)Зайдем в папку server и после этого установим зависимости командой npm i   
   4)Откроем в терминале git bush  
-![Image alt](https://github.com/saha23412/imgproj/raw/main/test2.jpg) 
+  ![Image alt](https://github.com/saha23412/imgproj/raw/main/test2.jpg)   
+  Введем команду psql -U postgress,затем введем пароль пользователя postgress(базовый пароль:root)  
